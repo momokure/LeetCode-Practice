@@ -1,6 +1,7 @@
 # 345. Reverse Vowels of a String
 # Easy
 # https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+#自力
 
 # @before-stub-for-debug-begin
 from python3problem1 import *
